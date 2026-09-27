@@ -1,0 +1,4 @@
+# AI Principles & Techniques - Programming Assignments 1-3
+numpy==1.26.4
+numba==0.59.1
+pandas==2.2.2
